@@ -11,7 +11,7 @@ Install electron-packager and run it on the resulting folder
 
 ```
 electron-packager lightning Lightning --platform=darwin --arch=x64 /
-  --version=0.30.1 --icon=lightning/electron/icons.icns --prune /
+  --version=0.30.1 --icon=lightning/electron/icons.icns /
   --app-version=0.1.13 --app-bundle-id=Lightning --helper-bundle-id=Lightning
 ```
 
